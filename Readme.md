@@ -78,6 +78,7 @@ streamlit run app.py
 
 Este projeto está licenciado sob a licença [MIT](https://github.com/tvlemes/APP-ETL-Basico-com-IA/blob/main/LICENSE).
 
+---
 
 ## 👨‍💻 Sobre
 
