@@ -44,7 +44,7 @@ conn.commit()
 ###################################################################################################
 
 
-st.title("📥 Upload + ETL + Histórico (SQLite)")
+st.title("📥 APP ETL Básico com IA + Histórico (SQLite)")
 st.sidebar.title("⚙️ Configurações da IA")
 
 temperatura = st.sidebar.slider("Temperatura", min_value=0.0, max_value=1.0, value=0.7, step=0.05)
