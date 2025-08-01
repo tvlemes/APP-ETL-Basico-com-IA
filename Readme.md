@@ -77,3 +77,10 @@ streamlit run app.py
 ## 📄 Licença
 
 Este projeto está licenciado sob a licença [MIT](https://github.com/tvlemes/APP-ETL-Basico-com-IA/blob/main/LICENSE).
+
+
+## 👨‍💻 Sobre
+
+Autor: Thiago Vilarinho Lemes <br>
+LinkedIn <a href="https://www.linkedin.com/in/thiago-v-lemes-b1232727" target="_blank">Thiago Lemes</a><br>
+e-mail: contatothiagolemes@gmail.com | lemes_vilarinho@yahoo.com.br
