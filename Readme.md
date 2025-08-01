@@ -50,8 +50,8 @@ Este projeto apresenta um **aplicativo de ETL com inteligência artificial**, co
 ## 🧪 Instalação Local
 
 ```bash
-git clone https://github.com/tvlemes/APP-ETL-B-sico-com-IA
-cd app-etl-ia
+git clone https://github.com/tvlemes/APP-ETL-Basico-com-IA
+cd APP-ETL-Basico-com-IA
 python -m venv venv
 source venv/bin/activate  # ou .\venv\Scripts\activate
 pip install -r requirements.txt
