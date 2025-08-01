@@ -10,6 +10,20 @@
 
 Este projeto apresenta um **aplicativo de ETL com inteligência artificial**, construído com **Streamlit**. Ele permite que usuários façam upload de arquivos tabulares em diversos formatos, recebam **sugestões automáticas de transformação via IA** e salvem os resultados prontos para ingestão em um data warehouse ou banco relacional.
 
+Com ele, usuários podem:
+
+* Fazer upload de arquivos tabulares nos formatos .csv, .parquet, .xlsx, .xls e .xml;
+
+* Aplicar automaticamente transformações sugeridas por IA;
+
+* Realizar tratamentos como preenchimento de valores nulos, renomeações, conversões de tipo e mais;
+
+* Salvar os resultados no formato Parquet, prontos para ingestão em bancos relacionais ou data warehouses.
+
+⚠️ Pré-requisitos:
+
+É necessário ter o **LM Studio instalado** e possuir ao menos um modelo de IA para **geração de texto** já baixado (como Mistral, Gemma ou Roberta), pois o sistema utiliza esses modelos para sugerir **transformações automatizadas** com base na estrutura do dataset carregado.
+
 ---
 
 ## 🚀 Funcionalidades
