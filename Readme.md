@@ -1,7 +1,7 @@
 # 🧠 APP ETL Básico com IA
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/tvlemes/APP-ETL-Basico-com-IA/blob/main/LICENSE)
 [![Status](https://img.shields.io/badge/status-Em%20Desenvolvimento-yellow.svg)]()
 
 ---
@@ -62,4 +62,4 @@ streamlit run app.py
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a licença [MIT](LICENSE).
+Este projeto está licenciado sob a licença [MIT](https://github.com/tvlemes/APP-ETL-Basico-com-IA/blob/main/LICENSE).
